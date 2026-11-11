@@ -49,6 +49,19 @@ The system processes video streams from two IP cameras and uses computer vision 
 
 ## System Architecture
 
+### System Design
+
+The following diagram illustrates the overall architecture of the AI-powered smart surveillance system.
+
+![FYP System Design](images/FYP%20System%20Design.png)
+
+### Hardware Circuit Diagram
+
+The following diagram shows the hardware connections used in the Raspberry Pi-based security system.
+
+![FYP Circuit Diagram](images/FYP%20Circuit%20Diagram.png)
+
+
 The prototype consists of four main layers:
 
 **1. Input Layer:** IP cameras and RTSP video streams.
