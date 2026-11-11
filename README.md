@@ -104,3 +104,23 @@ Portfolio: https://malikmahadasif.github.io/
 ## Disclaimer
 
 This project is an academic research prototype intended for learning and demonstration. It has not been independently validated or certified for deployment as a production security or emergency-response system.
+
+---
+
+
+
+## Project Demonstration
+
+Watch the AI-Based Smart Surveillance and Threat Detection System in action.
+
+[Watch FYP Demonstration Video](demo/FYP%20Video.mp4)
+
+## Project Documentation
+
+The following documents provide detailed information about the system's design, implementation, and research.
+
+- [Final Year Project Report](docs/FYP%20Final%20Report.pdf)
+- [FYP Summary Report](docs/FYP%20Summary%20Report.pdf)
+
+
+
